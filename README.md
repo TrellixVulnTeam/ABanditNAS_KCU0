@@ -19,4 +19,4 @@ sh script/cifar10_darts_defense_all_1.sh
 ```
 
 ## supplement
-ABANDIT_CIFAR_2 is a better structure that we search for later
+ABANDIT_CIFAR_2 is a better structure that we search for later.
